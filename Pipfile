@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 sklearn = "*"
 jupyter = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
